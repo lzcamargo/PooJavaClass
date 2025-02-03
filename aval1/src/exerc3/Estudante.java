@@ -46,7 +46,7 @@ public class Estudante {
 	}
 	
 	public float calcularMedia() {
-		return ((getNotaTrab1() + getNotaTrab2()+ getNotaPrv1() + getNotaPrv2())/4);
+		return ((notaTrab1 + getNotaTrab2()+ getNotaPrv1() + getNotaPrv2())/4);
 	}
 	
 	public String situacaoEstudante() {

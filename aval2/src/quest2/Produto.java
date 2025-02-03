@@ -63,6 +63,30 @@ public class Produto {
 			System.out.println("Produto Inativo Regra não aplicada");
 		}
 	}
+	
+	public void alterarGeral() {
+		if (getProdutoAtivo() == false) {
+		if(getQtdEstoqueProduto() > 10) {
+			this.precoProduto = (getPrecoProduto() - (getPrecoProduto() * 0.30f));
+		}	
+		else {
+			this.precoProduto = (getPrecoProduto() - (getPrecoProduto() * 0.20f));
+			}
+		}
+	else {
+		if (getQtdEstoqueProduto() <= 10) {
+			this.precoProduto -= (getPrecoProduto() * 0.10f);
+		}
+		else if ((getQtdEstoqueProduto() > 10) && (getQtdEstoqueProduto() < 40)) {
+			this.precoProduto -= (getPrecoProduto() * 0.12f);
+		}
+		else {
+			this.precoProduto -= (getPrecoProduto() * 0.15f);
+		}
+	}
+	
+	 
+	}
 
 	@Override
 	public String toString() {

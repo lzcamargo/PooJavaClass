@@ -1,8 +1,0 @@
-package exerc5;
-
-public abstract class Veiculo {
-	protected String corVeiculo;
-	protected int velocidadeVeiculo;
-	
-
-}

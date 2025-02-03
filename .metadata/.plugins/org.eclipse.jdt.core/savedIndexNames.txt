@@ -1,12 +1,6 @@
 INDEX VERSION 1.134+D:\2024\Semestre 2\POO\projetos\.metadata\.plugins\org.eclipse.jdt.core
-4044049684.index
-2965794504.index
-3351338590.index
-1744968878.index
 1865797976.index
-4023665163.index
-720332279.index
-1504037885.index
-782433131.index
-88093760.index
-391189245.index
+2820438036.index
+3825629519.index
+3404423413.index
+2840467823.index

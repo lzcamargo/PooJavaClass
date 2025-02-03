@@ -1,5 +1,0 @@
-package quest3;
-
-public class Automovel extends Veiculo {
-
-}

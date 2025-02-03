@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\LUIZ\\git\\repository\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\LUIZ\\git\\repository\\.git;
+GitRepositoriesView.GitDirectories=D\:\\programsJava\\mapeamento\\.git;C\:\\Users\\LUIZ\\git\\repository\\.git;D\:\\2024\\Semestre 2\\POO\\projetos\\.git;
+GitRepositoriesView.GitDirectories.relative=D\:\\programsJava\\mapeamento\\.git;C\:\\Users\\LUIZ\\git\\repository\\.git;.git;
 core_defaultRepositoryDir=${build_files}
 core_ssh_default_agent=\\\\.\\pageant
 eclipse.preferences.version=1

@@ -1,8 +1,0 @@
-package quest3;
-
-public abstract class Veiculo {
-	protected float velocidade;
-	
-	public float acelarar();
-
-

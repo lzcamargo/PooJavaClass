@@ -10,5 +10,5 @@ public class Gato extends Mamifero {
 	public float obterCotaLeite() {
 		return cotaLeiteDiaria;
 	}
-
+	
 }

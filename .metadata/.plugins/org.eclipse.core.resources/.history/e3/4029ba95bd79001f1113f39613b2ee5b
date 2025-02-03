@@ -1,9 +1,0 @@
-package desafio;
-
-public class Condutor {
-	private String nomeCondutor;
-	private Long cpfCondutor;
-	private Long foneCondutor;
-	
-
-}
